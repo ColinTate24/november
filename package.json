@@ -1,7 +1,7 @@
 {
-  "name": "simple-test",
+  "name": "november",
   "version": "1.0.0",
-  "description": "",
+  "description": "fall 2022 spin up v2.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,16 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ColinTate24/simple-test.git"
+    "url": "git+https://github.com/colintate24/november.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ColinTate24/simple-test/issues"
+    "url": "https://github.com/colintate24/november/issues"
   },
-  "homepage": "https://github.com/ColinTate24/simple-test#readme",
+  "homepage": "https://github.com/colintate24/november#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
   }
 }
